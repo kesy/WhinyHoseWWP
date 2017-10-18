@@ -31,6 +31,7 @@ class MyAI ( Agent ):
         self.deadwumpus=False 
         self.hasarrow=True
         self.num_moves=0
+        #adding stuff for testing git
 
         # ======================================================================
         # YOUR CODE ENDS
